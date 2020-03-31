@@ -1,3 +1,3 @@
 ,acc1,epoch,loss,lr
-0,"tensor(0.7181, device='cuda:0')",1,"tensor(1.3341, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
-1,"tensor(0.2580, device='cuda:0')",1,"tensor(0.3064, device='cuda:0')",0.0001
+0,"tensor(0.7932, device='cuda:0')",1,"tensor(0.9905, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+1,"tensor(0.2666, device='cuda:0')",1,"tensor(0.2248, device='cuda:0')",0.0001
