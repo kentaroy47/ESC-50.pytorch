@@ -1,2 +1,22 @@
 ,acc1,epoch,loss,lr
-0,"tensor(0.7932, device='cuda:0')",1,"tensor(0.9905, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+0,"tensor(0.8737, device='cuda:0')",1,"tensor(0.6316, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+1,"tensor(0.8611, device='cuda:0')",1,"tensor(0.5832, device='cuda:0')",0.0001
+2,"tensor(0.9076, device='cuda:0')",2,"tensor(0.4704, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+3,"tensor(0.8373, device='cuda:0')",2,"tensor(0.5980, device='cuda:0')",0.0001
+4,"tensor(0.9255, device='cuda:0')",3,"tensor(0.3846, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+5,"tensor(0.8849, device='cuda:0')",3,"tensor(0.4499, device='cuda:0')",0.0001
+6,"tensor(0.9335, device='cuda:0')",4,"tensor(0.3444, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+7,"tensor(0.8671, device='cuda:0')",4,"tensor(0.5476, device='cuda:0')",0.0001
+8,"tensor(0.9548, device='cuda:0')",5,"tensor(0.2465, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+9,"tensor(0.9087, device='cuda:0')",5,"tensor(0.3704, device='cuda:0')",0.0001
+10,"tensor(0.9541, device='cuda:0')",6,"tensor(0.2371, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+11,"tensor(0.8829, device='cuda:0')",6,"tensor(0.4747, device='cuda:0')",0.0001
+12,"tensor(0.9687, device='cuda:0')",7,"tensor(0.1891, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+13,"tensor(0.9028, device='cuda:0')",7,"tensor(0.3993, device='cuda:0')",0.0001
+14,"tensor(0.9727, device='cuda:0')",8,"tensor(0.1613, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+15,"tensor(0.8889, device='cuda:0')",8,"tensor(0.4587, device='cuda:0')",0.0001
+16,"tensor(0.9801, device='cuda:0')",9,"tensor(0.1417, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+17,"tensor(0.8611, device='cuda:0')",9,"tensor(0.5644, device='cuda:0')",0.0001
+18,"tensor(0.9694, device='cuda:0')",10,"tensor(0.1600, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
+19,"tensor(0.8929, device='cuda:0')",10,"tensor(0.4778, device='cuda:0')",0.0001
+20,"tensor(0.9668, device='cuda:0')",11,"tensor(0.1470, device='cuda:0', grad_fn=<DivBackward0>)",0.0001
